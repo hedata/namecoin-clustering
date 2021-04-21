@@ -1,0 +1,9 @@
+Collecting psycopg2
+  Downloading psycopg2-2.6.2.tar.gz (376kB)
+Building wheels for collected packages: psycopg2
+  Running setup.py bdist_wheel for psycopg2: started
+  Running setup.py bdist_wheel for psycopg2: finished with status 'done'
+  Stored in directory: /home/jovyan/.cache/pip/wheels/49/47/2a/5c3f874990ce267228c2dfe7a0589f3b0651aa590e329ad382
+Successfully built psycopg2
+Installing collected packages: psycopg2
+Successfully installed psycopg2-2.6.2
